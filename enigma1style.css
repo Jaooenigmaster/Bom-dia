@@ -1,0 +1,24 @@
+label {
+    font-size: 24px;
+    color: purple;
+  }
+  
+  input[type="text"] {
+    background-color: transparent;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 18px;
+    color: #fff;
+  }
+  
+  #feito-button {
+    background-color: rgba(128, 128, 128, 0.5);
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  #feito-button:hover {
+    background-color: rgba(128, 128, 128, 0.7);
+  }
